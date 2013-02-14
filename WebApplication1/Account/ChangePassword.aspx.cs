@@ -12,6 +12,7 @@ namespace WebApplication1.Account
         protected void Page_Load(object sender, EventArgs e)
         {
             int a = 0;
+            a += 1;
         }
     }
 }
